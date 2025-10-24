@@ -1,6 +1,4 @@
-Here is the README markdown code, reformatted to match the HTML-centric and centered style of your example.
 
-````markdown
 <h1 align="center">Dataroma Insider Analyzer & Scraper</h1>
 <h3 align="center">High-conviction insider trading analysis with Python, Playwright, and Polygon.io</h3>
 
@@ -252,5 +250,4 @@ The data is scraped from a third-party website and is not guaranteed to be accur
 Always do your own research before making any investment decisions.
 \</p\>
 
-```
 ```
