@@ -91,7 +91,7 @@ This script identifies "high-conviction" stocks—those with purchases from *mul
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/dataroma-insider-analyzer-scraper.git](https://github.com/your-username/dataroma-insider-analyzer-scraper.git)
+    git clone https://github.com/Jeiberth/dataroma-insider-analyzer-scraper.git
     cd dataroma-insider-analyzer-scraper
     ```
 
@@ -244,10 +244,7 @@ The script generates a single `insider_trades_analysis.json` file with a nested 
 
 ### ⚠️ Disclaimer
 
-\<p align="center"\>
 This tool is for educational and informational purposes only. \<strong\>It is not financial advice.\</strong\><br>
 The data is scraped from a third-party website and is not guaranteed to be accurate, complete, or timely.<br>
 Always do your own research before making any investment decisions.
-\</p\>
 
-```
