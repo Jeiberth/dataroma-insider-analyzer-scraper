@@ -1,0 +1,1041 @@
+
+================================================================================
+INDIVIDUAL SYMBOL ANALYSIS
+================================================================================
+
+================================================================================
+SYMBOL: ADC (Avg Total Return: 2.20%)
+================================================================================
+
+1. RECENT PURCHASES (Last 60 Days)
+----------------------------------------
+Date         Amount          Purchaser                 Relationship   
+------------ --------------- ------------------------- ---------------
+07 Oct 2025  1,771,093       RAKOLTA JOHN JR           Director       
+02 Oct 2025  249,183         AGREE JOEY                PRESIDENT & C  
+
+2. PRICE PERFORMANCE ANALYSIS (Purchases > 1 Month Old)
+----------------------------------------
+Purchaser                 Purchase Date +3 Days    +8 Days    +15 Days   +1 Month   +3 Months 
+------------------------- ------------ ---------- ---------- ---------- ---------- ----------
+AGREE JOEY                11 Dec 2023  4.67%      4.65%      6.31%      5.35%      -1.87%    
+AGREE JOEY                21 Feb 2024  0.70%      -3.78%     0.14%      -2.26%     6.37%     
+AGREE JOEY                13 Aug 2025  0.40%      2.45%      0.54%      1.15%      N/A       
+RAKOLTA JOHN JR           21 Dec 2023  0.99%      0.85%      1.15%      -2.13%     -9.69%    
+RAKOLTA JOHN JR           20 Feb 2024  2.20%      -1.71%     1.78%      0.14%      7.36%     
+RAKOLTA JOHN JR           23 May 2024  0.42%      2.98%      3.64%      4.24%      23.31%    
+RAKOLTA JOHN JR           23 Dec 2024  0.74%      0.23%      -0.36%     1.72%      7.71%     
+RAKOLTA JOHN JR           08 Apr 2025  5.98%      10.30%     9.25%      6.08%      1.81%     
+RAKOLTA JOHN JR           11 Jun 2025  0.01%      0.12%      -2.07%     -3.92%     -2.99%    
+
+3. SYMBOL AVERAGE PERFORMANCE (Based on Analysis)
+----------------------------------------
+  Total Avg Return:   2.20%
+  +3 Days Avg:        1.79%
+  +8 Days Avg:        1.79%
+  +15 Days Avg:       2.27%
+  +1 Month Avg:       1.15%
+  +3 Months Avg:      4.00%
+
+4. PURCHASER PERFORMANCE SUMMARY (Based on Analysis)
+----------------------------------------
+Purchaser                 Total Avg  +3d Avg    +8d Avg    +15d Avg   +1m Avg    +3m Avg   
+------------------------- ---------- ---------- ---------- ---------- ---------- ----------
+AGREE JOEY                1.80%      1.92%      1.11%      2.33%      1.41%      2.25%     
+RAKOLTA JOHN JR           2.34%      1.73%      2.13%      2.23%      1.02%      4.58%     
+
+================================================================================
+SYMBOL: ANGO (Avg Total Return: 6.21%)
+================================================================================
+
+1. RECENT PURCHASES (Last 60 Days)
+----------------------------------------
+Date         Amount          Purchaser                 Relationship   
+------------ --------------- ------------------------- ---------------
+21 Oct 2025  118,100         WEISS LAWRENCE T          SVP, Chief Le  
+09 Oct 2025  111,500         CLEMMER JAMES C           President and  
+
+2. PRICE PERFORMANCE ANALYSIS (Purchases > 1 Month Old)
+----------------------------------------
+Purchaser                 Purchase Date +3 Days    +8 Days    +15 Days   +1 Month   +3 Months 
+------------------------- ------------ ---------- ---------- ---------- ---------- ----------
+CLEMMER JAMES C           08 Apr 2024  2.87%      -1.51%     -8.77%     -10.89%    -16.64%   
+CLEMMER JAMES C           07 Oct 2024  0.66%      3.77%      19.18%     21.48%     51.97%    
+
+3. SYMBOL AVERAGE PERFORMANCE (Based on Analysis)
+----------------------------------------
+  Total Avg Return:   6.21%
+  +3 Days Avg:        1.77%
+  +8 Days Avg:        1.13%
+  +15 Days Avg:       5.20%
+  +1 Month Avg:       5.29%
+  +3 Months Avg:      17.66%
+
+4. PURCHASER PERFORMANCE SUMMARY (Based on Analysis)
+----------------------------------------
+Purchaser                 Total Avg  +3d Avg    +8d Avg    +15d Avg   +1m Avg    +3m Avg   
+------------------------- ---------- ---------- ---------- ---------- ---------- ----------
+CLEMMER JAMES C           6.21%      1.77%      1.13%      5.20%      5.29%      17.66%    
+
+================================================================================
+SYMBOL: BGC
+================================================================================
+
+1. RECENT PURCHASES (Last 60 Days)
+----------------------------------------
+Date         Amount          Purchaser                 Relationship   
+------------ --------------- ------------------------- ---------------
+06 Oct 2025  0               LUTNICK BRANDON           Director , 10  
+06 Oct 2025  0               LUTNICK BRANDON           Director , 10  
+06 Oct 2025  82,631,818      LUTNICK BRANDON           Director , 10  
+06 Oct 2025  0               LUTNICK BRANDON           Director , 10  
+06 Oct 2025  82,631,818      CF GROUP MANAGEMENT INC   Director , 10  
+
+2. PRICE PERFORMANCE ANALYSIS (Purchases > 1 Month Old)
+----------------------------------------
+No purchases older than 1 month to analyze.
+
+3. SYMBOL AVERAGE PERFORMANCE (Based on Analysis)
+----------------------------------------
+No analysis data to calculate average performance.
+
+4. PURCHASER PERFORMANCE SUMMARY (Based on Analysis)
+----------------------------------------
+No analysis data to calculate purchaser performance.
+
+================================================================================
+SYMBOL: BRT (Avg Total Return: 3.48%)
+================================================================================
+
+1. RECENT PURCHASES (Last 60 Days)
+----------------------------------------
+Date         Amount          Purchaser                 Relationship   
+------------ --------------- ------------------------- ---------------
+20 Oct 2025  104,728         GOULD MATTHEW J           SENIOR VICE P  
+20 Oct 2025  104,728         GOULD INVESTORS L P       10%            
+20 Oct 2025  104,728         GOULD JEFFREY             PRESIDENT AND  
+17 Oct 2025  59,162          GOULD JEFFREY             PRESIDENT AND  
+17 Oct 2025  59,162          GOULD MATTHEW J           SENIOR VICE P  
+
+2. PRICE PERFORMANCE ANALYSIS (Purchases > 1 Month Old)
+----------------------------------------
+Purchaser                 Purchase Date +3 Days    +8 Days    +15 Days   +1 Month   +3 Months 
+------------------------- ------------ ---------- ---------- ---------- ---------- ----------
+GOULD JEFFREY             25 Mar 2024  2.63%      -0.43%     8.06%      7.76%      8.86%     
+GOULD JEFFREY             04 Apr 2024  4.99%      6.14%      4.51%      11.19%     1.99%     
+GOULD JEFFREY             17 Apr 2024  5.15%      5.39%      12.11%     6.78%      12.53%    
+GOULD JEFFREY             13 May 2025  4.41%      2.90%      2.44%      6.12%      -1.51%    
+GOULD JEFFREY             28 May 2025  1.29%      3.60%      3.60%      1.41%      1.16%     
+GOULD JEFFREY             06 Jun 2025  1.06%      -2.12%     -1.31%     -1.44%     -1.31%    
+GOULD JEFFREY             18 Jun 2025  -0.75%     -1.26%     1.70%      -4.21%     2.26%     
+GOULD JEFFREY             12 Aug 2025  -0.33%     1.85%      5.10%      8.81%      N/A       
+GOULD INVESTORS L P       25 Mar 2024  2.63%      -0.43%     8.06%      7.76%      8.86%     
+GOULD INVESTORS L P       04 Apr 2024  4.99%      6.14%      4.51%      11.19%     1.99%     
+GOULD INVESTORS L P       17 Apr 2024  5.15%      5.39%      12.11%     6.78%      12.53%    
+GOULD INVESTORS L P       14 May 2025  6.09%      2.47%      6.56%      4.82%      1.00%     
+GOULD INVESTORS L P       28 May 2025  1.29%      3.60%      3.60%      1.41%      1.16%     
+GOULD INVESTORS L P       06 Jun 2025  1.06%      -2.12%     -1.31%     -1.44%     -1.31%    
+GOULD INVESTORS L P       18 Jun 2025  -0.75%     -1.26%     1.70%      -4.21%     2.26%     
+GOULD INVESTORS L P       12 Aug 2025  -0.33%     1.85%      5.10%      8.81%      N/A       
+GOULD MATTHEW J           25 Mar 2024  2.63%      -0.43%     8.06%      7.76%      8.86%     
+GOULD MATTHEW J           04 Apr 2024  4.99%      6.14%      4.51%      11.19%     1.99%     
+GOULD MATTHEW J           17 Apr 2024  5.15%      5.39%      12.11%     6.78%      12.53%    
+GOULD MATTHEW J           14 May 2025  6.09%      2.47%      6.56%      4.82%      1.00%     
+GOULD MATTHEW J           28 May 2025  1.29%      3.60%      3.60%      1.41%      1.16%     
+GOULD MATTHEW J           06 Jun 2025  1.06%      -2.12%     -1.31%     -1.44%     -1.31%    
+GOULD MATTHEW J           18 Jun 2025  -0.75%     -1.26%     1.70%      -4.21%     2.26%     
+GOULD MATTHEW J           12 Aug 2025  -0.33%     1.85%      5.10%      8.81%      N/A       
+
+3. SYMBOL AVERAGE PERFORMANCE (Based on Analysis)
+----------------------------------------
+  Total Avg Return:   3.48%
+  +3 Days Avg:        2.44%
+  +8 Days Avg:        1.97%
+  +15 Days Avg:       4.87%
+  +1 Month Avg:       4.44%
+  +3 Months Avg:      3.66%
+
+4. PURCHASER PERFORMANCE SUMMARY (Based on Analysis)
+----------------------------------------
+Purchaser                 Total Avg  +3d Avg    +8d Avg    +15d Avg   +1m Avg    +3m Avg   
+------------------------- ---------- ---------- ---------- ---------- ---------- ----------
+GOULD JEFFREY             3.36%      2.30%      2.01%      4.53%      4.55%      3.42%     
+GOULD INVESTORS L P       3.54%      2.51%      1.96%      5.04%      4.39%      3.78%     
+GOULD MATTHEW J           3.54%      2.51%      1.96%      5.04%      4.39%      3.78%     
+
+================================================================================
+SYMBOL: CBK
+================================================================================
+
+1. RECENT PURCHASES (Last 60 Days)
+----------------------------------------
+Date         Amount          Purchaser                 Relationship   
+------------ --------------- ------------------------- ---------------
+03 Oct 2025  349,992         SHOFFNER JAMES J          Director       
+03 Oct 2025  199,992         YATES CHARLES L.          Director       
+
+2. PRICE PERFORMANCE ANALYSIS (Purchases > 1 Month Old)
+----------------------------------------
+No purchases older than 1 month to analyze.
+
+3. SYMBOL AVERAGE PERFORMANCE (Based on Analysis)
+----------------------------------------
+No analysis data to calculate average performance.
+
+4. PURCHASER PERFORMANCE SUMMARY (Based on Analysis)
+----------------------------------------
+No analysis data to calculate purchaser performance.
+
+================================================================================
+SYMBOL: FGBI (Avg Total Return: 5.28%)
+================================================================================
+
+1. RECENT PURCHASES (Last 60 Days)
+----------------------------------------
+Date         Amount          Purchaser                 Relationship   
+------------ --------------- ------------------------- ---------------
+30 Sep 2025  250,001         MCANALLY BRUCE            Director       
+30 Sep 2025  1,137,690       SMITH EDGAR R. III        Director       
+30 Sep 2025  250,001         REYNOLDS MARSHALL T       Director       
+
+2. PRICE PERFORMANCE ANALYSIS (Purchases > 1 Month Old)
+----------------------------------------
+Purchaser                 Purchase Date +3 Days    +8 Days    +15 Days   +1 Month   +3 Months 
+------------------------- ------------ ---------- ---------- ---------- ---------- ----------
+MCANALLY BRUCE            31 Mar 2025  2.34%      -1.95%     17.92%     22.08%     6.75%     
+MCANALLY BRUCE            30 Jun 2025  7.79%      9.37%      5.72%      5.23%      -1.22%    
+REYNOLDS MARSHALL T       01 Apr 2025  -0.13%     4.54%      25.81%     26.85%     6.61%     
+REYNOLDS MARSHALL T       30 Jun 2025  7.79%      9.37%      5.72%      5.23%      -1.22%    
+SMITH EDGAR R. III        12 Aug 2024  0.00%      -1.16%     -2.39%     -1.15%     6.69%     
+SMITH EDGAR R. III        02 Apr 2025  -0.39%     -2.33%     27.30%     20.31%     6.34%     
+SMITH EDGAR R. III        12 May 2025  -0.21%     -3.06%     -4.01%     -10.44%    -15.61%   
+SMITH EDGAR R. III        30 Jun 2025  7.79%      9.37%      5.72%      5.23%      -1.22%    
+
+3. SYMBOL AVERAGE PERFORMANCE (Based on Analysis)
+----------------------------------------
+  Total Avg Return:   5.28%
+  +3 Days Avg:        3.12%
+  +8 Days Avg:        3.02%
+  +15 Days Avg:       10.22%
+  +1 Month Avg:       9.17%
+  +3 Months Avg:      0.89%
+
+4. PURCHASER PERFORMANCE SUMMARY (Based on Analysis)
+----------------------------------------
+Purchaser                 Total Avg  +3d Avg    +8d Avg    +15d Avg   +1m Avg    +3m Avg   
+------------------------- ---------- ---------- ---------- ---------- ---------- ----------
+MCANALLY BRUCE            7.40%      5.06%      3.71%      11.82%     13.65%     2.77%     
+REYNOLDS MARSHALL T       9.06%      3.83%      6.95%      15.76%     16.04%     2.70%     
+SMITH EDGAR R. III        2.34%      1.80%      0.70%      6.65%      3.49%      -0.95%    
+
+================================================================================
+SYMBOL: GWRS (Avg Total Return: 1.07%)
+================================================================================
+
+1. RECENT PURCHASES (Last 60 Days)
+----------------------------------------
+Date         Amount          Purchaser                 Relationship   
+------------ --------------- ------------------------- ---------------
+30 Sep 2025  1,586,468       COHN ANDREW M.            Director       
+30 Sep 2025  7,500,429       LEVINE JONATHAN L         Director       
+
+2. PRICE PERFORMANCE ANALYSIS (Purchases > 1 Month Old)
+----------------------------------------
+Purchaser                 Purchase Date +3 Days    +8 Days    +15 Days   +1 Month   +3 Months 
+------------------------- ------------ ---------- ---------- ---------- ---------- ----------
+COHN ANDREW M.            02 Jul 2024  -1.82%     -0.99%     8.28%      6.21%      4.22%     
+COHN ANDREW M.            27 Mar 2025  1.48%      -3.84%     0.10%      1.87%      0.49%     
+LEVINE JONATHAN L         27 Mar 2025  1.48%      -3.84%     0.10%      1.87%      0.49%     
+
+3. SYMBOL AVERAGE PERFORMANCE (Based on Analysis)
+----------------------------------------
+  Total Avg Return:   1.07%
+  +3 Days Avg:        0.38%
+  +8 Days Avg:        -2.89%
+  +15 Days Avg:       2.82%
+  +1 Month Avg:       3.32%
+  +3 Months Avg:      1.74%
+
+4. PURCHASER PERFORMANCE SUMMARY (Based on Analysis)
+----------------------------------------
+Purchaser                 Total Avg  +3d Avg    +8d Avg    +15d Avg   +1m Avg    +3m Avg   
+------------------------- ---------- ---------- ---------- ---------- ---------- ----------
+COHN ANDREW M.            1.60%      -0.17%     -2.42%     4.19%      4.04%      2.36%     
+LEVINE JONATHAN L         0.02%      1.48%      -3.84%     0.10%      1.87%      0.49%     
+
+================================================================================
+SYMBOL: HEI (Avg Total Return: -2.95%)
+================================================================================
+
+1. RECENT PURCHASES (Last 60 Days)
+----------------------------------------
+Date         Amount          Purchaser                 Relationship   
+------------ --------------- ------------------------- ---------------
+21 Oct 2025  99,504          HILDEBRANDT MARK H        Director       
+10 Oct 2025  164,899         MENDELSON VICTOR H        Co-COB and Co  
+10 Oct 2025  163,924         FINE CAROL F.             Director       
+10 Oct 2025  164,899         HILDEBRANDT MARK H        Director       
+10 Oct 2025  163,924         SCHRIESHEIM ALAN          Director       
+
+2. PRICE PERFORMANCE ANALYSIS (Purchases > 1 Month Old)
+----------------------------------------
+Purchaser                 Purchase Date +3 Days    +8 Days    +15 Days   +1 Month   +3 Months 
+------------------------- ------------ ---------- ---------- ---------- ---------- ----------
+SCHRIESHEIM ALAN          18 Oct 2024  0.08%      -2.72%     -5.76%     3.36%      -9.70%    
+MENDELSON VICTOR H        18 Oct 2024  0.08%      -2.72%     -5.76%     3.36%      -9.70%    
+MENDELSON ERIC A          18 Oct 2024  0.08%      -2.72%     -5.76%     3.36%      -9.70%    
+HENRIQUES ADOLFO          18 Oct 2024  0.08%      -2.72%     -5.76%     3.36%      -9.70%    
+FINE CAROL F.             18 Oct 2024  0.08%      -2.72%     -5.76%     3.36%      -9.70%    
+CULLIGAN THOMAS M         18 Oct 2024  0.08%      -2.72%     -5.76%     3.36%      -9.70%    
+HILDEBRANDT MARK H        18 Oct 2024  0.08%      -2.72%     -5.76%     3.36%      -9.70%    
+NEITZEL JULIE             18 Oct 2024  0.08%      -2.72%     -5.76%     3.36%      -9.70%    
+
+3. SYMBOL AVERAGE PERFORMANCE (Based on Analysis)
+----------------------------------------
+  Total Avg Return:   -2.95%
+  +3 Days Avg:        0.08%
+  +8 Days Avg:        -2.72%
+  +15 Days Avg:       -5.76%
+  +1 Month Avg:       3.36%
+  +3 Months Avg:      -9.70%
+
+4. PURCHASER PERFORMANCE SUMMARY (Based on Analysis)
+----------------------------------------
+Purchaser                 Total Avg  +3d Avg    +8d Avg    +15d Avg   +1m Avg    +3m Avg   
+------------------------- ---------- ---------- ---------- ---------- ---------- ----------
+SCHRIESHEIM ALAN          -2.95%     0.08%      -2.72%     -5.76%     3.36%      -9.70%    
+MENDELSON VICTOR H        -2.95%     0.08%      -2.72%     -5.76%     3.36%      -9.70%    
+MENDELSON ERIC A          -2.95%     0.08%      -2.72%     -5.76%     3.36%      -9.70%    
+HENRIQUES ADOLFO          -2.95%     0.08%      -2.72%     -5.76%     3.36%      -9.70%    
+FINE CAROL F.             -2.95%     0.08%      -2.72%     -5.76%     3.36%      -9.70%    
+CULLIGAN THOMAS M         -2.95%     0.08%      -2.72%     -5.76%     3.36%      -9.70%    
+HILDEBRANDT MARK H        -2.95%     0.08%      -2.72%     -5.76%     3.36%      -9.70%    
+NEITZEL JULIE             -2.95%     0.08%      -2.72%     -5.76%     3.36%      -9.70%    
+
+================================================================================
+SYMBOL: KYN (Avg Total Return: 1.77%)
+================================================================================
+
+1. RECENT PURCHASES (Last 60 Days)
+----------------------------------------
+Date         Amount          Purchaser                 Relationship   
+------------ --------------- ------------------------- ---------------
+15 Oct 2025  10,000,000      METLIFE INVESTMENT MANA   10%            
+15 Oct 2025  15,000,000      METLIFE INVESTMENT MANA   10%            
+06 Oct 2025  122,365         MEARS MICHAEL N           Director       
+
+2. PRICE PERFORMANCE ANALYSIS (Purchases > 1 Month Old)
+----------------------------------------
+Purchaser                 Purchase Date +3 Days    +8 Days    +15 Days   +1 Month   +3 Months 
+------------------------- ------------ ---------- ---------- ---------- ---------- ----------
+METLIFE INVESTMENT MANA   10 Jan 2024  -1.69%     -4.40%     -1.02%     -3.39%     8.47%     
+METLIFE INVESTMENT MANA   20 May 2024  -2.20%     -1.70%     -1.30%     3.70%      6.51%     
+METLIFE INVESTMENT MANA   18 Sep 2024  0.72%      2.08%      3.71%      6.88%      10.24%    
+
+3. SYMBOL AVERAGE PERFORMANCE (Based on Analysis)
+----------------------------------------
+  Total Avg Return:   1.77%
+  +3 Days Avg:        -1.06%
+  +8 Days Avg:        -1.34%
+  +15 Days Avg:       0.47%
+  +1 Month Avg:       2.40%
+  +3 Months Avg:      8.40%
+
+4. PURCHASER PERFORMANCE SUMMARY (Based on Analysis)
+----------------------------------------
+Purchaser                 Total Avg  +3d Avg    +8d Avg    +15d Avg   +1m Avg    +3m Avg   
+------------------------- ---------- ---------- ---------- ---------- ---------- ----------
+METLIFE INVESTMENT MANA   1.77%      -1.06%     -1.34%     0.47%      2.40%      8.40%     
+
+================================================================================
+SYMBOL: MBX (Avg Total Return: 1.79%)
+================================================================================
+
+1. RECENT PURCHASES (Last 60 Days)
+----------------------------------------
+Date         Amount          Purchaser                 Relationship   
+------------ --------------- ------------------------- ---------------
+20 Oct 2025  272,790         HAWRYLUK P. KENT          President & C  
+17 Oct 2025  264,984         HOERTER STEVEN L.         Director       
+26 Sep 2025  11,999,988      HERON PATRICK J           Director , 10  
+
+2. PRICE PERFORMANCE ANALYSIS (Purchases > 1 Month Old)
+----------------------------------------
+Purchaser                 Purchase Date +3 Days    +8 Days    +15 Days   +1 Month   +3 Months 
+------------------------- ------------ ---------- ---------- ---------- ---------- ----------
+HAWRYLUK P. KENT          04 Feb 2025  12.90%     -17.47%    2.65%      -6.13%     10.43%    
+HERON PATRICK J           16 Sep 2024  -1.94%     6.19%      11.13%     11.73%     -11.59%   
+
+3. SYMBOL AVERAGE PERFORMANCE (Based on Analysis)
+----------------------------------------
+  Total Avg Return:   1.79%
+  +3 Days Avg:        5.48%
+  +8 Days Avg:        -5.64%
+  +15 Days Avg:       6.89%
+  +1 Month Avg:       2.80%
+  +3 Months Avg:      -0.58%
+
+4. PURCHASER PERFORMANCE SUMMARY (Based on Analysis)
+----------------------------------------
+Purchaser                 Total Avg  +3d Avg    +8d Avg    +15d Avg   +1m Avg    +3m Avg   
+------------------------- ---------- ---------- ---------- ---------- ---------- ----------
+HAWRYLUK P. KENT          0.48%      12.90%     -17.47%    2.65%      -6.13%     10.43%    
+HERON PATRICK J           3.10%      -1.94%     6.19%      11.13%     11.73%     -11.59%   
+
+================================================================================
+SYMBOL: MRVL (Avg Total Return: 16.72%)
+================================================================================
+
+1. RECENT PURCHASES (Last 60 Days)
+----------------------------------------
+Date         Amount          Purchaser                 Relationship   
+------------ --------------- ------------------------- ---------------
+25 Sep 2025  265,302         BHARATHI SANDEEP          President, Da  
+25 Sep 2025  530,604         KOOPMANS CHRIS            President and  
+25 Sep 2025  1,048,424       MURPHY MATTHEW J          Chairman of t  
+25 Sep 2025  265,302         MEINTJES WILLEM A         Chief Financi  
+
+2. PRICE PERFORMANCE ANALYSIS (Purchases > 1 Month Old)
+----------------------------------------
+Purchaser                 Purchase Date +3 Days    +8 Days    +15 Days   +1 Month   +3 Months 
+------------------------- ------------ ---------- ---------- ---------- ---------- ----------
+MURPHY MATTHEW J          14 Oct 2024  2.87%      7.30%      9.26%      15.95%     48.24%    
+
+3. SYMBOL AVERAGE PERFORMANCE (Based on Analysis)
+----------------------------------------
+  Total Avg Return:   16.72%
+  +3 Days Avg:        2.87%
+  +8 Days Avg:        7.30%
+  +15 Days Avg:       9.26%
+  +1 Month Avg:       15.95%
+  +3 Months Avg:      48.24%
+
+4. PURCHASER PERFORMANCE SUMMARY (Based on Analysis)
+----------------------------------------
+Purchaser                 Total Avg  +3d Avg    +8d Avg    +15d Avg   +1m Avg    +3m Avg   
+------------------------- ---------- ---------- ---------- ---------- ---------- ----------
+MURPHY MATTHEW J          16.72%     2.87%      7.30%      9.26%      15.95%     48.24%    
+
+================================================================================
+SYMBOL: NORD (Avg Total Return: -2.84%)
+================================================================================
+
+1. RECENT PURCHASES (Last 60 Days)
+----------------------------------------
+No purchases found in the last 60 days.
+
+2. PRICE PERFORMANCE ANALYSIS (Purchases > 1 Month Old)
+----------------------------------------
+Purchaser                 Purchase Date +3 Days    +8 Days    +15 Days   +1 Month   +3 Months 
+------------------------- ------------ ---------- ---------- ---------- ---------- ----------
+AC NORDIC APS             18 Feb 2025  N/A        N/A        N/A        N/A        N/A       
+AC NORDIC APS             02 Jun 2025  0.00%      0.00%      6.67%      -46.67%    -34.67%   
+AC NORDIC APS             16 Jun 2025  0.00%      0.00%      -52.50%    -47.75%    -12.50%   
+AC NORDIC APS             03 Jul 2025  N/A        0.00%      13.16%     0.00%      150.00%   
+AC NORDIC APS             30 Jul 2025  0.00%      N/A        -15.79%    0.00%      136.84%   
+GK PARTNERS APS           08 Sep 2023  N/A        N/A        N/A        N/A        N/A       
+GK PARTNERS APS           02 Oct 2023  N/A        N/A        N/A        N/A        N/A       
+GK PARTNERS APS           19 Oct 2023  N/A        N/A        N/A        N/A        N/A       
+GK PARTNERS APS           30 Oct 2023  19.40%     19.40%     N/A        -2.99%     -10.45%   
+GK PARTNERS APS           28 Nov 2023  N/A        0.00%      -7.69%     -4.62%     -30.77%   
+GK PARTNERS APS           19 Dec 2023  0.00%      -11.43%    -21.43%    -30.00%    -12.86%   
+GK PARTNERS APS           11 Jan 2024  0.00%      0.00%      22.45%     10.20%     N/A       
+GK PARTNERS APS           31 Jan 2024  N/A        0.00%      N/A        -16.67%    22.22%    
+GK PARTNERS APS           20 Mar 2024  N/A        N/A        N/A        N/A        N/A       
+GK PARTNERS APS           29 Apr 2024  -1.52%     -24.24%    -24.24%    21.21%     1.52%     
+GK PARTNERS APS           30 May 2024  N/A        N/A        N/A        N/A        N/A       
+GK PARTNERS APS           05 Jul 2024  N/A        -1.25%     -1.25%     -7.50%     -23.75%   
+GK PARTNERS APS           18 Jul 2024  N/A        N/A        -6.33%     N/A        -11.39%   
+GK PARTNERS APS           05 Aug 2024  0.00%      0.00%      N/A        -30.11%    -17.72%   
+GK PARTNERS APS           16 Aug 2024  N/A        N/A        N/A        N/A        N/A       
+GK PARTNERS APS           03 Sep 2024  -9.06%     10.29%     11.21%     10.49%     -45.48%   
+GK PARTNERS APS           01 Oct 2024  N/A        14.75%     14.75%     -9.84%     47.54%    
+GK PARTNERS APS           03 Feb 2025  0.00%      0.00%      N/A        N/A        29.53%    
+GK PARTNERS APS           02 May 2025  N/A        N/A        N/A        N/A        N/A       
+GK PARTNERS APS           22 May 2025  N/A        0.00%      7.14%      14.29%     -48.57%   
+GK PARTNERS APS           28 May 2025  0.00%      7.14%      7.14%      -42.86%    -48.57%   
+GK PARTNERS APS           16 Jun 2025  0.00%      0.00%      -52.50%    -47.75%    -12.50%   
+
+3. SYMBOL AVERAGE PERFORMANCE (Based on Analysis)
+----------------------------------------
+  Total Avg Return:   -2.84%
+  +3 Days Avg:        0.74%
+  +8 Days Avg:        0.86%
+  +15 Days Avg:       -6.61%
+  +1 Month Avg:       -13.56%
+  +3 Months Avg:      4.36%
+
+4. PURCHASER PERFORMANCE SUMMARY (Based on Analysis)
+----------------------------------------
+Purchaser                 Total Avg  +3d Avg    +8d Avg    +15d Avg   +1m Avg    +3m Avg   
+------------------------- ---------- ---------- ---------- ---------- ---------- ----------
+AC NORDIC APS             4.84%      0.00%      0.00%      -12.12%    -23.60%    59.92%    
+GK PARTNERS APS           -4.91%     0.98%      1.05%      -4.61%     -10.47%    -11.52%   
+
+================================================================================
+SYMBOL: PEPG
+================================================================================
+
+1. RECENT PURCHASES (Last 60 Days)
+----------------------------------------
+Date         Amount          Purchaser                 Relationship   
+------------ --------------- ------------------------- ---------------
+30 Sep 2025  640,000         OXFORD SCIENCE ENTERPRI   Former 10% Ow  
+26 Sep 2025  30,000,000      RA CAPITAL MANAGEMENT,    Director , 10  
+
+2. PRICE PERFORMANCE ANALYSIS (Purchases > 1 Month Old)
+----------------------------------------
+No purchases older than 1 month to analyze.
+
+3. SYMBOL AVERAGE PERFORMANCE (Based on Analysis)
+----------------------------------------
+No analysis data to calculate average performance.
+
+4. PURCHASER PERFORMANCE SUMMARY (Based on Analysis)
+----------------------------------------
+No analysis data to calculate purchaser performance.
+
+================================================================================
+SYMBOL: PHXE.P
+================================================================================
+
+1. RECENT PURCHASES (Last 60 Days)
+----------------------------------------
+Date         Amount          Purchaser                 Relationship   
+------------ --------------- ------------------------- ---------------
+29 Sep 2025  100,000         FERRARI ADAM D.           Chief Executi  
+29 Sep 2025  170,000         ALLEN CURTIS R.           Chief Financi  
+
+2. PRICE PERFORMANCE ANALYSIS (Purchases > 1 Month Old)
+----------------------------------------
+No purchases older than 1 month to analyze.
+
+3. SYMBOL AVERAGE PERFORMANCE (Based on Analysis)
+----------------------------------------
+No analysis data to calculate average performance.
+
+4. PURCHASER PERFORMANCE SUMMARY (Based on Analysis)
+----------------------------------------
+No analysis data to calculate purchaser performance.
+
+================================================================================
+SYMBOL: PSEC (Avg Total Return: -2.45%)
+================================================================================
+
+1. RECENT PURCHASES (Last 60 Days)
+----------------------------------------
+Date         Amount          Purchaser                 Relationship   
+------------ --------------- ------------------------- ---------------
+25 Sep 2025  1,002,700       ELIASEK M GRIER           Chief Operati  
+25 Sep 2025  2,517,758       BARRY JOHN F              CHIEF EXECUTI  
+24 Sep 2025  1,939,610       BARRY JOHN F              CHIEF EXECUTI  
+23 Sep 2025  1,021,478       BARRY JOHN F              CHIEF EXECUTI  
+22 Sep 2025  997,219         BARRY JOHN F              CHIEF EXECUTI  
+
+2. PRICE PERFORMANCE ANALYSIS (Purchases > 1 Month Old)
+----------------------------------------
+Purchaser                 Purchase Date +3 Days    +8 Days    +15 Days   +1 Month   +3 Months 
+------------------------- ------------ ---------- ---------- ---------- ---------- ----------
+BARRY JOHN F              10 May 2024  0.00%      3.47%      4.02%      1.28%      -10.24%   
+BARRY JOHN F              04 Sep 2024  1.34%      3.84%      5.18%      0.77%      -12.67%   
+BARRY JOHN F              10 Sep 2024  5.11%      2.65%      0.95%      -2.46%     -15.91%   
+BARRY JOHN F              19 Nov 2024  4.09%      2.37%      -1.29%     -8.73%     -4.09%    
+BARRY JOHN F              24 Dec 2024  -2.29%     -0.46%     -2.75%     0.23%      -2.75%    
+BARRY JOHN F              17 Mar 2025  -1.16%     -1.62%     -5.80%     -19.26%    -24.83%   
+BARRY JOHN F              24 Mar 2025  -1.42%     -4.25%     -17.45%    -14.39%    -25.47%   
+BARRY JOHN F              23 Jun 2025  -0.63%     2.22%      5.06%      9.81%      -18.04%   
+BARRY JOHN F              23 Sep 2025  0.77%      6.56%      7.72%      5.79%      N/A       
+ELIASEK M GRIER           21 Nov 2023  1.74%      -2.43%     -2.09%     6.61%      -1.57%    
+ELIASEK M GRIER           05 Dec 2023  2.30%      4.79%      8.16%      8.87%      -2.48%    
+ELIASEK M GRIER           04 Sep 2024  1.34%      3.84%      5.18%      0.77%      -12.67%   
+ELIASEK M GRIER           13 Sep 2024  -1.08%     -1.08%     -4.32%     -7.93%     -19.28%   
+ELIASEK M GRIER           19 Nov 2024  4.09%      2.37%      -1.*29%     -8.73%     -4.09%    
+ELIASEK M GRIER           27 Nov 2024  0.63%      -4.84%     -5.68%     -10.32%    -8.00%    
+
+3. SYMBOL AVERAGE PERFORMANCE (Based on Analysis)
+----------------------------------------
+  Total Avg Return:   -2.45%
+  +3 Days Avg:        0.99%
+  +8 Days Avg:        1.16%
+  +15 Days Avg:       -0.29%
+  +1 Month Avg:       -2.51%
+  +3 Months Avg:      -11.58%
+
+4. PURCHASER PERFORMANCE SUMMARY (Based on Analysis)
+----------------------------------------
+Purchaser                 Total Avg  +3d Avg    +8d Avg    +15d Avg   +1m Avg    +3m Avg   
+------------------------- ---------- ---------- ---------- ---------- ---------- ----------
+BARRY JOHN F              -3.09%     0.65%      1.64%      -0.48%     -3.00%     -14.25%   
+ELIASEK M GRIER           -1.57%     1.51%      0.44%      -0.01%     -1.79%     -8.01%    
+
+================================================================================
+SYMBOL: REFI (Avg Total Return: 0.15%)
+================================================================================
+
+1. RECENT PURCHASES (Last 60 Days)
+----------------------------------------
+Date         Amount          Purchaser                 Relationship   
+------------ --------------- ------------------------- ---------------
+16 Oct 2025  102,000         MAZARAKIS JOHN            Executive Cha  
+15 Oct 2025  126,150         PAPASTAVROU JASON D       Director       
+15 Oct 2025  63,550          PAPASTAVROU JASON D       Director       
+15 Oct 2025  38,040          PAPASTAVROU JASON D       Director       
+14 Oct 2025  101,304         SACK PETER                Co-Chief Exec  
+
+2. PRICE PERFORMANCE ANALYSIS (Purchases > 1 Month Old)
+----------------------------------------
+Purchaser                 Purchase Date +3 Days    +8 Days    +15 Days   +1 Month   +3 Months 
+------------------------- ------------ ---------- ---------- ---------- ---------- ----------
+MAZARAKIS JOHN            08 Nov 2024  -1.07%     -0.70%     1.45%      2.34%      -1.26%    
+
+3. SYMBOL AVERAGE PERFORMANCE (Based on Analysis)
+----------------------------------------
+  Total Avg Return:   0.15%
+  +3 Days Avg:        -1.07%
+  +8 Days Avg:        -0.70%
+  +15 Days Avg:       1.45%
+  +1 Month Avg:       2.34%
+  +3 Months Avg:      -1.26%
+
+4. PURCHASER PERFORMANCE SUMMARY (Based on Analysis)
+----------------------------------------
+Purchaser                 Total Avg  +3d Avg    +8d Avg    +15d Avg   +1m Avg    +3m Avg   
+------------------------- ---------- ---------- ---------- ---------- ---------- ----------
+MAZARAKIS JOHN            0.15%      -1.07%     -0.70%     1.45%      2.34%      -1.26%    
+
+================================================================================
+SYMBOL: RIG (Avg Total Return: 1.69%)
+================================================================================
+
+1. RECENT PURCHASES (Last 60 Days)
+----------------------------------------
+Date         Amount          Purchaser                 Relationship   
+------------ --------------- ------------------------- ---------------
+26 Sep 2025  12,200,000      PERESTROIKA (CYPRUS) LT   Director , 10  
+26 Sep 2025  12,200,000      PERESTROIKA               Director , 10  
+26 Sep 2025  12,200,000      MOHN FREDERIK WILHELM     Director , 10  
+
+2. PRICE PERFORMANCE ANALYSIS (Purchases > 1 Month Old)
+----------------------------------------
+Purchaser                 Purchase Date +3 Days    +8 Days    +15 Days   +1 Month   +3 Months 
+------------------------- ------------ ---------- ---------- ---------- ---------- ----------
+PERESTROIKA               27 Feb 2024  5.38%      6.42%      16.36%     30.02%     26.50%    
+PERESTROIKA               15 May 2024  -0.17%     -3.81%     -2.32%     -14.40%    -14.74%   
+PERESTROIKA               02 Aug 2024  -3.65%     -0.38%     -0.38%     -16.92%    -16.54%   
+PERESTROIKA               12 Sep 2024  6.99%      9.40%      3.86%      3.61%      -1.45%    
+MOHN FREDERIK WILHELM     27 Feb 2024  5.38%      6.42%      16.36%     30.02%     26.50%    
+MOHN FREDERIK WILHELM     15 May 2024  -0.17%     -3.81%     -2.32%     -14.40%    -14.74%   
+MOHN FREDERIK WILHELM     02 Aug 2024  -3.65%     -0.38%     -0.38%     -16.92%    -16.54%   
+MOHN FREDERIK WILHELM     12 Sep 2024  6.99%      9.40%      3.86%      3.61%      -1.45%    
+PERESTROIKA (CYPRUS) LT   27 Feb 2024  5.38%      6.42%      16.36%     30.02%     26.50%    
+PERESTROIKA (CYPRUS) LT   15 May 2024  -0.17%     -3.81%     -2.32%     -14.40%    -14.74%   
+PERESTROIKA (CYPRUS) LT   02 Aug 2024  -3.65%     -0.38%     -0.38%     -16.92%    -16.54%   
+PERESTROIKA (CYPRUS) LT   12 Sep 2024  6.99%      9.40%      3.86%      3.61%      -1.45%    
+
+3. SYMBOL AVERAGE PERFORMANCE (Based on Analysis)
+----------------------------------------
+  Total Avg Return:   1.69%
+  +3 Days Avg:        2.14%
+  +8 Days Avg:        2.91%
+  +15 Days Avg:       4.38%
+  +1 Month Avg:       0.58%
+  +3 Months Avg:      -1.55%
+
+4. PURCHASER PERFORMANCE SUMMARY (Based on Analysis)
+----------------------------------------
+Purchaser                 Total Avg  +3d Avg    +8d Avg    +15d Avg   +1m Avg    +3m Avg   
+------------------------- ---------- ---------- ---------- ---------- ---------- ----------
+PERESTROIKA               1.69%      2.14%      2.91%      4.38%      0.58%      -1.55%    
+MOHN FREDERIK WILHELM     1.69%      2.14%      2.91%      4.38%      0.58%      -1.55%    
+PERESTROIKA (CYPRUS) LT   1.69%      2.14%      2.91%      4.38%      0.58%      -1.55%    
+
+================================================================================
+SYMBOL: RNGE (Avg Total Return: 25.47%)
+================================================================================
+
+1. RECENT PURCHASES (Last 60 Days)
+----------------------------------------
+Date         Amount          Purchaser                 Relationship   
+------------ --------------- ------------------------- ---------------
+23 Sep 2025  100,000         CAVANAUGH MICHAEL R.      Chief Executi  
+23 Sep 2025  350,000         LOCONTI JOSEPH E.         10%            
+23 Sep 2025  100,000         FEIGHAN EDWARD F          Director       
+
+2. PRICE PERFORMANCE ANALYSIS (Purchases > 1 Month Old)
+----------------------------------------
+Purchaser                 Purchase Date +3 Days    +8 Days    +15 Days   +1 Month   +3 Months 
+------------------------- ------------ ---------- ---------- ---------- ---------- ----------
+CAVANAUGH MICHAEL R.      21 Dec 2023  74.53%     27.36%     53.30%     65.09%     60.38%    
+CAVANAUGH MICHAEL R.      23 Sep 2025  12.84%     25.45%     25.51%     -10.39%    N/A       
+LOCONTI JOSEPH E.         14 Dec 2023  16.44%     71.23%     84.93%     160.27%    122.60%   
+LOCONTI JOSEPH E.         28 Jan 2025  -10.05%    -2.63%     -9.47%     -11.89%    -10.53%   
+LOCONTI JOSEPH E.         06 Feb 2025  1.98%      -3.30%     -10.33%    -20.74%    5.79%     
+LOCONTI JOSEPH E.         18 Feb 2025  -1.34%     -5.12%     -4.07%     -5.65%     5.81%     
+LOCONTI JOSEPH E.         07 Apr 2025  1.21%      9.09%      16.42%     21.33%     17.58%    
+LOCONTI JOSEPH E.         23 Sep 2025  12.84%     25.45%     25.51%     -10.39%    N/A       
+FEIGHAN EDWARD F          21 Dec 2023  74.53%     27.36%     53.30%     65.09%     60.38%    
+FEIGHAN EDWARD F          23 Sep 2025  12.84%     25.45%     25.51%     -10.39%    N/A       
+
+3. SYMBOL AVERAGE PERFORMANCE (Based on Analysis)
+----------------------------------------
+  Total Avg Return:   25.47%
+  +3 Days Avg:        19.58%
+  +8 Days Avg:        20.03%
+  +15 Days Avg:       26.06%
+  +1 Month Avg:       24.23%
+  +3 Months Avg:      37.43%
+
+4. PURCHASER PERFORMANCE SUMMARY (Based on Analysis)
+----------------------------------------
+Purchaser                 Total Avg  +3d Avg    +8d Avg    +15d Avg   +1m Avg    +3m Avg   
+------------------------- ---------- ---------- ---------- ---------- ---------- ----------
+CAVANAUGH MICHAEL R.      39.44%     43.69%     26.40%     39.40%     27.35%     60.38%    
+LOCONTI JOSEPH E.         17.37%     3.51%      15.79%     17.16%     22.15%     28.25%    
+FEIGHAN EDWARD F          39.44%     43.69%     26.40%     39.40%     27.35%     60.38%    
+
+================================================================================
+SYMBOL: SMMT (Avg Total Return: 28.89%)
+================================================================================
+
+1. RECENT PURCHASES (Last 60 Days)
+----------------------------------------
+Date         Amount          Purchaser                 Relationship   
+------------ --------------- ------------------------- ---------------
+21 Oct 2025  499,983         DUGGAN ROBERT W           Co-Chief Exec  
+21 Oct 2025  499,983         ZANGANEH MAHKAM           Co-Chief Exec  
+21 Oct 2025  9,999,983       XIA YU                    Director       
+11 Sep 2025  90,350          ZANGANEH MAHKAM           Co-Chief Exec  
+11 Sep 2025  90,350          DUGGAN ROBERT W           Co-Chief Exec  
+
+2. PRICE PERFORMANCE ANALYSIS (Purchases > 1 Month Old)
+----------------------------------------
+Purchaser                 Purchase Date +3 Days    +8 Days    +15 Days   +1 Month   +3 Months 
+------------------------- ------------ ---------- ---------- ---------- ---------- ----------
+ZANGANEH MAHKAM           12 Dec 2023  16.36%     10.23%     25.45%     35.00%     95.45%    
+ZANGANEH MAHKAM           27 Mar 2024  6.13%      -5.60%     7.47%      2.93%      113.60%   
+ZANGANEH MAHKAM           11 Sep 2025  1.83%      1.56%      12.63%     14.78%     N/A       
+DUGGAN ROBERT W           11 Sep 2025  1.83%      1.56%      12.63%     14.78%     N/A       
+
+3. SYMBOL AVERAGE PERFORMANCE (Based on Analysis)
+----------------------------------------
+  Total Avg Return:   28.89%
+  +3 Days Avg:        6.54%
+  +8 Days Avg:        1.94%
+  +15 Days Avg:       14.55%
+  +1 Month Avg:       16.88%
+  +3 Months Avg:      104.53%
+
+4. PURCHASER PERFORMANCE SUMMARY (Based on Analysis)
+----------------------------------------
+Purchaser                 Total Avg  +3d Avg    +8d Avg    +15d Avg   +1m Avg    +3m Avg   
+------------------------- ---------- ---------- ---------- ---------- ---------- ----------
+ZANGANEH MAHKAM           29.49%     8.11%      2.06%      15.19%     17.57%     104.53%   
+DUGGAN ROBERT W           7.70%      1.83%      1.56%      12.63%     14.78%     N/A       
+
+================================================================================
+SYMBOL: SPWH
+================================================================================
+
+1. RECENT PURCHASES (Last 60 Days)
+----------------------------------------
+Date         Amount          Purchaser                 Relationship   
+------------ --------------- ------------------------- ---------------
+03 Oct 2025  167,941         STONE PAUL                PRESIDENT AND  
+03 Oct 2025  140,500         TUCCI MICHAEL D           Director       
+02 Oct 2025  20,418          STONE PAUL                PRESIDENT AND  
+
+2. PRICE PERFORMANCE ANALYSIS (Purchases > 1 Month Old)
+----------------------------------------
+No purchases older than 1 month to analyze.
+
+3. SYMBOL AVERAGE PERFORMANCE (Based on Analysis)
+----------------------------------------
+No analysis data to calculate average performance.
+
+4. PURCHASER PERFORMANCE SUMMARY (Based on Analysis)
+----------------------------------------
+No analysis data to calculate purchaser performance.
+
+================================================================================
+SYMBOL: YCY
+================================================================================
+
+1. RECENT PURCHASES (Last 60 Days)
+----------------------------------------
+Date         Amount          Purchaser                 Relationship   
+------------ --------------- ------------------------- ---------------
+09 Oct 2025  262,500         AA MISSION SPONSOR II     10%            
+09 Oct 2025  262,500         SUN QING BILL             Chief Executi  
+02 Oct 2025  3,340,000       SUN QING BILL             Chief Executi  
+02 Oct 2025  3,340,000       AA MISSION SPONSOR II     10%            
+
+2. PRICE PERFORMANCE ANALYSIS (Purchases > 1 Month Old)
+----------------------------------------
+No purchases older than 1 month to analyze.
+
+3. SYMBOL AVERAGE PERFORMANCE (Based on Analysis)
+----------------------------------------
+No analysis data to calculate average performance.
+
+4. PURCHASER PERFORMANCE SUMMARY (Based on Analysis)
+----------------------------------------
+No analysis data to calculate purchaser performance.
+
+================================================================================
+SYMBOL: ZBIO (Avg Total Return: -7.21%)
+================================================================================
+
+1. RECENT PURCHASES (Last 60 Days)
+----------------------------------------
+Date         Amount          Purchaser                 Relationship   
+------------ --------------- ------------------------- ---------------
+09 Oct 2025  2,000,035       ENRIGHT PATRICK G         Director       
+09 Oct 2025  249,992         ENRIGHT PATRICK G         Director       
+09 Oct 2025  1,200,002       NUNN JASON RALEIGH        Director       
+09 Oct 2025  1,200,002       SR ONE CAPITAL MANAGEME   10%            
+09 Oct 2025  1,199,983       SR ONE CAPITAL MANAGEME   10%            
+
+2. PRICE PERFORMANCE ANALYSIS (Purchases > 1 Month Old)
+----------------------------------------
+Purchaser                 Purchase Date +3 Days    +8 Days    +15 Days   +1 Month   +3 Months 
+------------------------- ------------ ---------- ---------- ---------- ---------- ----------
+MOULDER LEON O JR         20 Sep 2024  -2.16%     -9.79%     -1.00%     22.26%     -48.63%   
+MOULDER LEON O JR         19 Nov 2024  -17.24%    -18.97%    -32.14%    -32.69%    -54.14%   
+MOULDER LEON O JR         04 Dec 2024  10.26%     -6.00%     -0.81%     -0.10%     -29.57%   
+MOULDER LEON O JR         18 Feb 2025  17.74%     1.50%      4.66%      28.12%     65.56%    
+FAIRMOUNT FUNDS MANAGEM   16 Sep 2024  -2.50%     7.01%      -5.18%     8.46%      -51.20%   
+NUNN JASON RALEIGH        16 Sep 2024  -2.50%     7.01%      -5.18%     8.46%      -51.20%   
+ENRIGHT PATRICK G         16 Sep 2024  -2.50%     7.01%      -5.18%     8.46%      -51.20%   
+SR ONE CAPITAL MANAGEME   16 Sep 2024  -2.50%     7.01%      -5.18%     8.46%      -51.20%   
+LU HONGBO                 13 Sep 2024  -0.99%     4.68%      -5.56%     3.36%      -49.04%   
+
+3. SYMBOL AVERAGE PERFORMANCE (Based on Analysis)
+----------------------------------------
+  Total Avg Return:   -7.21%
+  +3 Days Avg:        -0.27%
+  +8 Days Avg:        -0.06%
+  +15 Days Avg:       -6.17%
+  +1 Month Avg:       6.09%
+  +3 Months Avg:      -35.62%
+
+4. PURCHASER PERFORMANCE SUMMARY (Based on Analysis)
+----------------------------------------
+Purchaser                 Total Avg  +3d Avg    +8d Avg    +15d Avg   +1m Avg    +3m Avg   
+------------------------- ---------- ---------- ---------- ---------- ---------- ----------
+MOULDER LEON O JR         -5.16%     2.15%      -8.31%     -7.32%     4.40%      -16.69%   
+FAIRMOUNT FUNDS MANAGEM   -8.68%     -2.50%     7.01%      -5.18%     8.46%      -51.20%   
+NUNN JASON RALEIGH        -8.68%     -2.50%     7.01%      -5.18%     8.46%      -51.20%   
+ENRIGHT PATRICK G         -8.68%     -2.50%     7.01%      -5.18%     8.46%      -51.20%   
+SR ONE CAPITAL MANAGEME   -8.68%     -2.50%     7.01%      -5.18%     8.46%      -51.20%   
+LU HONGBO                 -9.51%     -0.99%     4.68%      -5.56%     3.36%      -49.04%   
+
+================================================================================
+SYMBOL: ZIVO (Avg Total Return: 62.42%)
+================================================================================
+
+1. RECENT PURCHASES (Last 60 Days)
+----------------------------------------
+Date         Amount          Purchaser                 Relationship   
+------------ --------------- ------------------------- ---------------
+13 Oct 2025  249,996         STROME MARK E             10%            
+10 Oct 2025  19,991          YALDOO LAITH L            Director , 10  
+08 Oct 2025  284,421         MAGGIORE CHRISTOPHER D.   Director , 10  
+30 Sep 2025  244,999         YALDOO LAITH L            Director , 10  
+
+2. PRICE PERFORMANCE ANALYSIS (Purchases > 1 Month Old)
+----------------------------------------
+Purchaser                 Purchase Date +3 Days    +8 Days    +15 Days   +1 Month   +3 Months 
+------------------------- ------------ ---------- ---------- ---------- ---------- ----------
+YALDOO LAITH L            16 Oct 2024  -2.44%     -2.44%     -4.88%     4.63%      -13.95%   
+YALDOO LAITH L            22 Jan 2025  7.68%      8.91%      16.96%     22.60%     -31.54%   
+YALDOO LAITH L            13 Jun 2025  0.00%      14.69%     -7.77%     2.15%      0.00%     
+STROME MARK E             02 Jun 2021  N/A        N/A        N/A        N/A        N/A       
+STROME MARK E             26 Dec 2024  0.66%      2.76%      -10.58%    -11.63%    -19.94%   
+MAGGIORE CHRISTOPHER D.   13 Dec 2023  -21.48%    -11.41%    -12.75%    169.80%    477.18%   
+MAGGIORE CHRISTOPHER D.   29 Dec 2023  23.33%     135.00%    235.00%    728.33%    545.83%   
+MAGGIORE CHRISTOPHER D.   12 Jun 2024  -0.13%     2.00%      -2.38%     5.76%      49.94%    
+MAGGIORE CHRISTOPHER D.   26 Jul 2024  1.80%      1.80%      7.78%      8.74%      139.52%   
+MAGGIORE CHRISTOPHER D.   22 Aug 2024  10.06%     63.64%     33.33%     87.88%     154.55%   
+
+3. SYMBOL AVERAGE PERFORMANCE (Based on Analysis)
+----------------------------------------
+  Total Avg Return:   62.42%
+  +3 Days Avg:        2.17%
+  +8 Days Avg:        23.88%
+  +15 Days Avg:       28.30%
+  +1 Month Avg:       113.14%
+  +3 Months Avg:      144.62%
+
+4. PURCHASER PERFORMANCE SUMMARY (Based on Analysis)
+----------------------------------------
+Purchaser                 Total Avg  +3d Avg    +8d Avg    +15d Avg   +1m Avg    +3m Avg   
+------------------------- ---------- ---------- ---------- ---------- ---------- ----------
+YALDOO LAITH L            0.97%      1.75%      7.05%      1.44%      9.80%      -15.16%   
+STROME MARK E             -7.75%     0.66%      2.76%      -10.58%    -11.63%    -19.94%   
+MAGGIORE CHRISTOPHER D.   113.33%    2.72%      38.21%     52.20%     200.10%    273.40%   
+
+================================================================================
+OVERALL PRICE PERFORMANCE ANALYSIS SUMMARY (ALL SYMBOLS)
+================================================================================
+
+                         Purchaser Symbol Purchase Date  Cluster Size +3 Days +8 Days +15 Days +1Month +3 Months
+                        AGREE JOEY    ADC   11 Dec 2023             2   4.67%   4.65%    6.31%   5.35%    -1.87%
+                        AGREE JOEY    ADC   21 Feb 2024             2   0.70%  -3.78%    0.14%  -2.26%     6.37%
+                        AGREE JOEY    ADC   13 Aug 2025             3   0.40%   2.45%    0.54%   1.15%       N/A
+                   RAKOLTA JOHN JR    ADC   21 Dec 2023             2   0.99%   0.85%    1.15%  -2.13%    -9.69%
+                   RAKOLTA JOHN JR    ADC   20 Feb 2024             3   2.20%  -1.71%    1.78%   0.14%     7.36%
+                   RAKOLTA JOHN JR    ADC   23 May 2024             2   0.42%   2.98%    3.64%   4.24%    23.31%
+                   RAKOLTA JOHN JR    ADC   23 Dec 2024             2   0.74%   0.23%   -0.36%   1.72%     7.71%
+                   RAKOLTA JOHN JR    ADC   08 Apr 2025             1   5.98%  10.30%    9.25%   6.08%     1.81%
+                   RAKOLTA JOHN JR    ADC   11 Jun 2025             1   0.01%   0.12%   -2.07%  -3.92%    -2.99%
+                   CLEMMER JAMES C   ANGO   08 Apr 2024             1   2.87%  -1.51%   -8.77% -10.89%   -16.64%
+                   CLEMMER JAMES C   ANGO   07 Oct 2024             1   0.66%   3.77%   19.18%  21.48%    51.97%
+                     GOULD JEFFREY    BRT   25 Mar 2024             7   2.63%  -0.43%    8.06%   7.76%     8.86%
+                     GOULD JEFFREY    BRT   04 Apr 2024             6   4.99%   6.14%    4.51%  11.19%     1.99%
+                     GOULD JEFFREY    BRT   17 Apr 2024             5   5.15%   5.39%   12.11%   6.78%    12.53%
+                     GOULD JEFFREY    BRT   13 May 2025             5   4.41%   2.90%    2.44%   6.12%    -1.51%
+                     GOULD JEFFREY    BRT   28 May 2025             4   1.29%   3.60%    3.60%   1.41%     1.16%
+                     GOULD JEFFREY    BRT   06 Jun 2025             4   1.06%  -2.12%   -1.31%  -1.44%    -1.31%
+                     GOULD JEFFREY    BRT   18 Jun 2025             2  -0.75%  -1.26%    1.70%  -4.21%     2.26%
+                     GOULD JEFFREY    BRT   12 Aug 2025             2  -0.33%   1.85%    5.10%   8.81%       N/A
+               GOULD INVESTORS L P    BRT   25 Mar 2024             7   2.63%  -0.43%    8.06%   7.76%     8.86%
+               GOULD INVESTORS L P    BRT   04 Apr 2024             6   4.99%   6.14%    4.51%  11.19%     1.99%
+               GOULD INVESTORS L P    BRT   17 Apr 2024             5   5.15%   5.39%   12.11%   6.78%    12.53%
+               GOULD INVESTORS L P    BRT   14 May 2025             5   6.09%   2.47%    6.56%   4.82%     1.00%
+               GOULD INVESTORS L P    BRT   28 May 2025             4   1.29%   3.60%    3.60%   1.41%     1.16%
+               GOULD INVESTORS L P    BRT   06 Jun 2025             4   1.06%  -2.12%   -1.31%  -1.44%    -1.31%
+               GOULD INVESTORS L P    BRT   18 Jun 2025             2  -0.75%  -1.26%    1.70%  -4.21%     2.26%
+               GOULD INVESTORS L P    BRT   12 Aug 2025             2  -0.33%   1.85%    5.10%   8.81%       N/A
+                   GOULD MATTHEW J    BRT   25 Mar 2024             7   2.63%  -0.43%    8.06%   7.76%     8.86%
+                   GOULD MATTHEW J    BRT   04 Apr 2024             6   4.99%   6.14%    4.51%  11.19%     1.99%
+                   GOULD MATTHEW J    BRT   17 Apr 2024             5   5.15%   5.39%   12.11%   6.78%    12.53%
+                   GOULD MATTHEW J    BRT   14 May 2025             5   6.09%   2.47%    6.56%   4.82%     1.00%
+                   GOULD MATTHEW J    BRT   28 May 2025             4   1.29%   3.60%    3.60%   1.41%     1.16%
+                   GOULD MATTHEW J    BRT   06 Jun 2025             4   1.06%  -2.12%   -1.31%  -1.44%    -1.31%
+                   GOULD MATTHEW J    BRT   18 Jun 2025             2  -0.75%  -1.26%    1.70%  -4.21%     2.26%
+                   GOULD MATTHEW J    BRT   12 Aug 2025             2  -0.33%   1.85%    5.10%   8.81%       N/A
+                    MCANALLY BRUCE   FGBI   31 Mar 2025             1   2.34%  -1.95%   17.92%  22.08%     6.75%
+                    MCANALLY BRUCE   FGBI   30 Jun 2025             1   7.79%   9.37%    5.72%   5.23%    -1.22%
+               REYNOLDS MARSHALL T   FGBI   01 Apr 2025             1  -0.13%   4.54%   25.81%  26.85%     6.61%
+               REYNOLDS MARSHALL T   FGBI   30 Jun 2025             1   7.79%   9.37%    5.72%   5.23%    -1.22%
+                SMITH EDGAR R. III   FGBI   12 Aug 2024             1   0.00%  -1.16%   -2.39%  -1.15%     6.69%
+                SMITH EDGAR R. III   FGBI   02 Apr 2025             3  -0.39%  -2.33%   27.30%  20.31%     6.34%
+                SMITH EDGAR R. III   FGBI   12 May 2025             1  -0.21%  -3.06%   -4.01% -10.44%   -15.61%
+                SMITH EDGAR R. III   FGBI   30 Jun 2025             1   7.79%   9.37%    5.72%   5.23%    -1.22%
+                    COHN ANDREW M.   GWRS   02 Jul 2024             1  -1.82%  -0.99%    8.28%   6.21%     4.22%
+                    COHN ANDREW M.   GWRS   27 Mar 2025             1   1.48%  -3.84%    0.10%   1.87%     0.49%
+                 LEVINE JONATHAN L   GWRS   27 Mar 2025             1   1.48%  -3.84%    0.10%   1.87%     0.49%
+                  SCHRIESHEIM ALAN    HEI   18 Oct 2024             1   0.08%  -2.72%   -5.76%   3.36%    -9.70%
+                MENDELSON VICTOR H    HEI   18 Oct 2024             1   0.08%  -2.72%   -5.76%   3.36%    -9.70%
+                  MENDELSON ERIC A    HEI   18 Oct 2024             1   0.08%  -2.72%   -5.76%   3.36%    -9.70%
+                  HENRIQUES ADOLFO    HEI   18 Oct 2024             1   0.08%  -2.72%   -5.76%   3.36%    -9.70%
+                     FINE CAROL F.    HEI   18 Oct 2024             1   0.08%  -2.72%   -5.76%   3.36%    -9.70%
+                 CULLIGAN THOMAS M    HEI   18 Oct 2024             1   0.08%  -2.72%   -5.76%   3.36%    -9.70%
+                HILDEBRANDT MARK H    HEI   18 Oct 2024             1   0.08%  -2.72%   -5.76%   3.36%    -9.70%
+                     NEITZEL JULIE    HEI   18 Oct 2024             1   0.08%  -2.72%   -5.76%   3.36%    -9.70%
+METLIFE INVESTMENT MANAGEMENT, LLC    KYN   10 Jan 2024             2  -1.69%  -4.40%   -1.02%  -3.39%     8.47%
+METLIFE INVESTMENT MANAGEMENT, LLC    KYN   20 May 2024             6  -2.20%  -1.70%   -1.30%   3.70%     6.51%
+METLIFE INVESTMENT MANAGEMENT, LLC    KYN   18 Sep 2024             4   0.72%   2.08%    3.71%   6.88%    10.24%
+                  HAWRYLUK P. KENT    MBX   04 Feb 2025             1  12.90% -17.47%    2.65%  -6.13%    10.43%
+                   HERON PATRICK J    MBX   16 Sep 2024             1  -1.94%   6.19%   11.13%  11.73%   -11.59%
+                  MURPHY MATTHEW J   MRVL   14 Oct 2024             1   2.87%   7.30%    9.26%  15.95%    48.24%
+                     AC NORDIC APS   NORD   18 Feb 2025             1     N/A     N/A      N/A     N/A       N/A
+                     AC NORDIC APS   NORD   02 Jun 2025             1   0.00%   0.00%    6.67% -46.67%   -34.67%
+                     AC NORDIC APS   NORD   16 Jun 2025             1   0.00%   0.00%  -52.50% -47.75%   -12.50%
+                     AC NORDIC APS   NORD   03 Jul 2025             2     N/A   0.00%   13.16%   0.00%   150.00%
+                     AC NORDIC APS   NORD   30 Jul 2025             1   0.00%     N/A  -15.79%   0.00%   136.84%
+                   GK PARTNERS APS   NORD   08 Sep 2023             1     N/A     N/A      N/A     N/A       N/A
+                   GK PARTNERS APS   NORD   02 Oct 2023             2     N/A     N/A      N/A     N/A       N/A
+                   GK PARTNERS APS   NORD   19 Oct 2023             1     N/A     N/A      N/A     N/A       N/A
+                   GK PARTNERS APS   NORD   30 Oct 2023             1  19.40%  19.40%      N/A  -2.99%   -10.45%
+                   GK PARTNERS APS   NORD   28 Nov 2023             1     N/A   0.00%   -7.69%  -4.62%   -30.77%
+                   GK PARTNERS APS   NORD   19 Dec 2023             2   0.00% -11.43%  -21.43% -30.00%   -12.86%
+                   GK PARTNERS APS   NORD   11 Jan 2024             1   0.00%   0.00%   22.45%  10.20%       N/A
+                   GK PARTNERS APS   NORD   31 Jan 2024             1     N/A   0.00%      N/A -16.67%    22.22%
+                   GK PARTNERS APS   NORD   20 Mar 2024             2     N/A     N/A      N/A     N/A       N/A
+                   GK PARTNERS APS   NORD   29 Apr 2024             1  -1.52% -24.24%  -24.24%  21.21%     1.52%
+                   GK PARTNERS APS   NORD   30 May 2024             1     N/A     N/A      N/A     N/A       N/A
+                   GK PARTNERS APS   NORD   05 Jul 2024             1     N/A  -1.25%   -1.25%  -7.50%   -23.75%
+                   GK PARTNERS APS   NORD   18 Jul 2024             1     N/A     N/A   -6.33%     N/A   -11.39%
+                   GK PARTNERS APS   NORD   05 Aug 2024             1   0.00%   0.00%      N/A -30.11%   -17.72%
+                   GK PARTNERS APS   NORD   16 Aug 2024             1     N/A     N/A      N/A     N/A       N/A
+                   GK PARTNERS APS   NORD   03 Sep 2024             1  -9.06%  10.29%   11.21%  10.49%   -45.48%
+                   GK PARTNERS APS   NORD   01 Oct 2024             1     N/A  14.75%   14.75%  -9.84%    47.54%
+                   GK PARTNERS APS   NORD   03 Feb 2025             1   0.00%   0.00%      N/A     N/A    29.53%
+                   GK PARTNERS APS   NORD   02 May 2025             2     N/A     N/A      N/A     N/A       N/A
+                   GK PARTNERS APS   NORD   22 May 2025             2     N/A   0.00%    7.14%  14.29%   -48.57%
+                   GK PARTNERS APS   NORD   28 May 2025             2   0.00%   7.14%    7.14% -42.86%   -48.57%
+                   GK PARTNERS APS   NORD   16 Jun 2025             1   0.00%   0.00%  -52.50% -47.75%   -12.50%
+                      BARRY JOHN F   PSEC   10 May 2024             3   0.00%   3.47%    4.02%   1.28%   -10.24%
+                      BARRY JOHN F   PSEC   04 Sep 2024             9   1.34%   3.84%    5.18%   0.77%   -12.67%
+                      BARRY JOHN F   PSEC   10 Sep 2024             1   5.11%   2.65%    0.95%  -2.46%   -15.91%
+                      BARRY JOHN F   PSEC   19 Nov 2024             7   4.09%   2.37%   -1.29%  -8.73%    -4.09%
+                      BARRY JOHN F   PSEC   24 Dec 2024             1  -2.29%  -0.46%   -2.75%   0.23%    -2.75%
+                      BARRY JOHN F   PSEC   17 Mar 2025            10  -1.16%  -1.62%   -5.80% -19.26%   -24.83%
+                      BARRY JOHN F   PSEC   24 Mar 2025             1  -1.42%  -4.25%  -17.45% -14.39%   -25.47%
+                      BARRY JOHN F   PSEC   23 Jun 2025             2  -0.63%   2.22%    5.06%   9.81%   -18.04%
+                      BARRY JOHN F   PSEC   23 Sep 2025             3   0.77%   6.56%    7.72%   5.79%       N/A
+                   ELIASEK M GRIER   PSEC   21 Nov 2023             7   1.74%  -2.43%   -2.09%   6.61%    -1.57%
+                   ELIASEK M GRIER   PSEC   05 Dec 2023             4   2.30%   4.79%    8.16%   8.87%    -2.48%
+                   ELIASEK M GRIER   PSEC   04 Sep 2024             7   1.34%   3.84%    5.18%   0.77%   -12.67%
+                   ELIASEK M GRIER   PSEC   13 Sep 2024             4  -1.08%  -1.08%   -4.32%  -7.93%   -19.28%
+                   ELIASEK M GRIER   PSEC   19 Nov 2024             8   4.09%   2.37%   -1.29%  -8.73%    -4.09%
+                   ELIASEK M GRIER   PSEC   27 Nov 2024             4   0.63%  -4.84%   -5.68% -10.32%    -8.00%
+                    MAZARAKIS JOHN   REFI   08 Nov 2024             1  -1.07%  -0.70%    1.45%   2.34%    -1.26%
+                       PERESTROIKA    RIG   27 Feb 2024             1   5.38%   6.42%   16.36%  30.02%    26.50%
+                       PERESTROIKA    RIG   15 May 2024             1  -0.17%  -3.81%   -2.32% -14.40%   -14.74%
+                       PERESTROIKA    RIG   02 Aug 2024             1  -3.65%  -0.38%   -0.38% -16.92%   -16.54%
+                       PERESTROIKA    RIG   12 Sep 2024             1   6.99%   9.40%    3.86%   3.61%    -1.45%
+             MOHN FREDERIK WILHELM    RIG   27 Feb 2024             1   5.38%   6.42%   16.36%  30.02%    26.50%
+             MOHN FREDERIK WILHELM    RIG   15 May 2024             1  -0.17%  -3.81%   -2.32% -14.40%   -14.74%
+             MOHN FREDERIK WILHELM    RIG   02 Aug 2024             1  -3.65%  -0.38%   -0.38% -16.92%   -16.54%
+             MOHN FREDERIK WILHELM    RIG   12 Sep 2024             1   6.99%   9.40%    3.86%   3.61%    -1.45%
+          PERESTROIKA (CYPRUS) LTD    RIG   27 Feb 2024             1   5.38%   6.42%   16.36%  30.02%    26.50%
+          PERESTROIKA (CYPRUS) LTD    RIG   15 May 2024             1  -0.17%  -3.81%   -2.32% -14.40%   -14.74%
+          PERESTROIKA (CYPRUS) LTD    RIG   02 Aug 2024             1  -3.65%  -0.38%   -0.38% -16.92%   -16.54%
+          PERESTROIKA (CYPRUS) LTD    RIG   12 Sep 2024             1   6.99%   9.40%    3.86%   3.61%    -1.45%
+              CAVANAUGH MICHAEL R.   RNGE   21 Dec 2023             1  74.53%  27.36%   53.30%  65.09%    60.38%
+              CAVANAUGH MICHAEL R.   RNGE   23 Sep 2025             1  12.84%  25.45%   25.51% -10.39%       N/A
+                 LOCONTI JOSEPH E.   RNGE   14 Dec 2023             6  16.44%  71.23%   84.93% 160.27%   122.60%
+                 LOCONTI JOSEPH E.   RNGE   28 Jan 2025             2 -10.05%  -2.63%   -9.47% -11.89%   -10.53%
+                 LOCONTI JOSEPH E.   RNGE   06 Feb 2025             1   1.98%  -3.30%  -10.33% -20.74%     5.79%
+                 LOCONTI JOSEPH E.   RNGE   18 Feb 2025             1  -1.34%  -5.12%   -4.07%  -5.65%     5.81%
+                 LOCONTI JOSEPH E.   RNGE   07 Apr 2025             4   1.21%   9.09%   16.42%  21.33%    17.58%
+                 LOCONTI JOSEPH E.   RNGE   23 Sep 2025             1  12.84%  25.45%   25.51% -10.39%       N/A
+                  FEIGHAN EDWARD F   RNGE   21 Dec 2023             1  74.53%  27.36%   53.30%  65.09%    60.38%
+                  FEIGHAN EDWARD F   RNGE   23 Sep 2025             1  12.84%  25.45%   25.51% -10.39%       N/A
+                   ZANGANEH MAHKAM   SMMT   12 Dec 2023             1  16.36%  10.23%   25.45%  35.00%    95.45%
+                   ZANGANEH MAHKAM   SMMT   27 Mar 2024             4   6.13%  -5.60%    7.47%   2.93%   113.60%
+                   ZANGANEH MAHKAM   SMMT   11 Sep 2025             2   1.83%   1.56%   12.63%  14.78%       N/A
+                   DUGGAN ROBERT W   SMMT   11 Sep 2025             2   1.83%   1.56%   12.63%  14.78%       N/A
+                 MOULDER LEON O JR   ZBIO   20 Sep 2024             4  -2.16%  -9.79%   -1.00%  22.26%   -48.63%
+                 MOULDER LEON O JR   ZBIO   19 Nov 2024             2 -17.24% -18.97%  -32.14% -32.69%   -54.14%
+                 MOULDER LEON O JR   ZBIO   04 Dec 2024             2  10.26%  -6.00%   -0.81%  -0.10%   -29.57%
+                 MOULDER LEON O JR   ZBIO   18 Feb 2025             1  17.74%   1.50%    4.66%  28.12%    65.56%
+    FAIRMOUNT FUNDS MANAGEMENT LLC   ZBIO   16 Sep 2024             2  -2.50%   7.01%   -5.18%   8.46%   -51.20%
+                NUNN JASON RALEIGH   ZBIO   16 Sep 2024             2  -2.50%   7.01%   -5.18%   8.46%   -51.20%
+                 ENRIGHT PATRICK G   ZBIO   16 Sep 2024             1  -2.50%   7.01%   -5.18%   8.46%   -51.20%
+    SR ONE CAPITAL MANAGEMENT, LLC   ZBIO   16 Sep 2024             3  -2.50%   7.01%   -5.18%   8.46%   -51.20%
+                         LU HONGBO   ZBIO   13 Sep 2024             2  -0.99%   4.68%   -5.56%   3.36%   -49.04%
+                    YALDOO LAITH L   ZIVO   16 Oct 2024             1  -2.44%  -2.44%   -4.88%   4.63%   -13.95%
+                    YALDOO LAITH L   ZIVO   22 Jan 2025             2   7.68%   8.91%   16.96%  22.60%   -31.54%
+                    YALDOO LAITH L   ZIVO   13 Jun 2025             1   0.00%  14.69%   -7.77%   2.15%     0.00%
+                     STROME MARK E   ZIVO   02 Jun 2021             1     N/A     N/A      N/A     N/A       N/A
+                     STROME MARK E   ZIVO   26 Dec 2024             1   0.66%   2.76%  -10.58% -11.63%   -19.94%
+           MAGGIORE CHRISTOPHER D.   ZIVO   13 Dec 2023             1 -21.48% -11.41%  -12.75% 169.80%   477.18%
+           MAGGIORE CHRISTOPHER D.   ZIVO   29 Dec 2023             1  23.33% 135.00%  235.00% 728.33%   545.83%
+           MAGGIORE CHRISTOPHER D.   ZIVO   12 Jun 2024             1  -0.13%   2.00%   -2.38%   5.76%    49.94%
+           MAGGIORE CHRISTOPHER D.   ZIVO   26 Jul 2024             1   1.80%   1.80%    7.78%   8.74%   139.52%
+           MAGGIORE CHRISTOPHER D.   ZIVO   22 Aug 2024             1  10.06%  63.64%   33.33%  87.88%   154.55%
+
+================================================================================
+OVERALL AVERAGE PERFORMANCE (ALL SYMBOLS)
+================================================================================
+  Total Avg Return:   6.79%
+  +3 Days Avg:        3.05%
+  +8 Days Avg:        3.94%
+  +15 Days Avg:       5.07%
+  +1 Month Avg:       10.15%
+  +3 Months Avg:      11.72%
+
+✓ Analyzed 148 insider purchase clusters
